@@ -1,5 +1,5 @@
 if game.PlaceId == 9396463375 then ------------- MINING EMPIRE
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Galaxy-Hub-Scripts/main/Mining%20Empire%20Script%20V1.lua",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GalaxyHubOffical/Galaxy-Hub-Scripts/main/Mining_Empire",true))()
 elseif game.PlaceId == 9282309028 then ------------- ROCKET RUSH SIMULATOR
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Galaxy-Hub-Scripts/main/Rocket%20Rush%20Simulator%20Script%20V1.lua",true))()
 elseif game.PlaceId == 5490351219 then ------------- ROCKET RUSH SIMULATOR
